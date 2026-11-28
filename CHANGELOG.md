@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 145
-- shop-fork: maintenance and dependency updates (2026-11-27 13:52)
+## Sprint 146
+- shop-fork: maintenance and dependency updates (2026-11-28 07:58)
